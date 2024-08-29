@@ -113,4 +113,3 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 
-#pip install skicit-learn==1.2.2
